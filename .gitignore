@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# git対応させない
+TODO
+package-lock.json
+
+/dist/main.js
