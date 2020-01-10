@@ -105,6 +105,4 @@ dist
 
 # git対応させない
 TODO
-package-lock.json
-
 /dist/main.js
