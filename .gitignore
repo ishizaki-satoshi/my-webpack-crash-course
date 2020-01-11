@@ -105,4 +105,4 @@ dist
 
 # git対応させない
 TODO
-/dist/main.js
+/dist
